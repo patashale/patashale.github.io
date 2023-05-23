@@ -1,0 +1,62 @@
+site_name: Patashale™
+site_url: https://www.patashale.in
+site_author: Pranam
+site_description: We are an open-source remote learning platform.
+theme:
+  name: material
+  language: en
+  favicon: assets/favicon.png
+  logo: assets/logo.png
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/company/patashale
+      name: Patashale™ on LinkedIn
+    - icon: fontawesome/brands/github
+      link: https://github.com/patashale
+      name: Patashale™ on GitHub
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/patashale_in
+      name: Patashale™ on Twitter
+    - icon: fontawesome/brands/mastodon
+      link: https://mastodon.social/@patashale
+      name: Patashale™ on Mastodon Social
+    - icon: fontawesome/brands/mastodon
+      link: https://fosstodon.org/@patashale
+      name: Patashale™ on Fosstodon
+
+nav:
+  - Home: index.md
+  - Learn: en/learn.md
+  - Product: en/product.md
+  - Licenses: en/licenses.md
+  - Careers: en/careers.md
+  - Contact: en/contact.md
+  - Donate: en/donate.md
+
+copyright: Copyright &copy; 2023 <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.github.com/patashale">Patashale&#x2122;</a>. All rights reserved.
