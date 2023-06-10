@@ -56,7 +56,7 @@ extra:
 nav:
   - Home: index.md
   - Learn: en/learn.md
-  - Product: en/product.md
+  - Products: en/products.md
   - Licenses: en/licenses.md
   - Careers: en/careers.md
   - Contact: en/contact.md
