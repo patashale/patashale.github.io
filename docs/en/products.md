@@ -6,4 +6,4 @@ hide:
 
 ---
 
-# Product
+# Products
