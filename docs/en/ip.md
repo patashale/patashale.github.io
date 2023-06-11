@@ -1,9 +1,0 @@
----
-
-hide:
-  - navigation
-  - toc
-
----
-
-# IP
