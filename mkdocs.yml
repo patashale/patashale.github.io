@@ -55,7 +55,9 @@ extra:
 
 nav:
   - Home: index.md
-  - Learn: en/learn.md
+  - Learn:
+    - Law:
+       - Indian Penal Code: ipc
   - Products: en/products.md
   - Licenses: en/licenses.md
   - Careers: en/careers.md
