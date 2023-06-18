@@ -26,6 +26,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
+    - navigation.sections
 
 
 extra_css:
@@ -53,9 +54,34 @@ extra:
       link: https://youtube.com/@patashale
       name: Patashale™ on YouTube
 
+markdown_extensions: 
+  - attr_list
+  - md_in_html
+
+
 nav:
   - Home: index.md
-  - Learn: en/learn.md
+  - Learn: 
+    - Home: en/learn.md
+    - Law:
+        - Indian Penal Code: ipc
+        - Constitution of India: coi
+    - Software:
+        - Redis: learn-redis
+        - MongoDB: learn-mongodb
+        - Rust: learn-rust
+        - Podman: learn-podman
+        - OpenStack: learn-openstack
+        - Ubuntu: learn-ubuntu
+        - MAAS: learn-maas
+        - Juju: learn-juju
+        - Kubernetes: learn-kubernetes
+        - gRPC: learn-grpc
+        - GraphQL: learn-graphql
+    - Hardware:
+        - Arduino: learn-arduino
+    - NPO:
+        - Section 8: section-eight
   - Products: en/products.md
   - Licenses: en/licenses.md
   - Policies: en/policies.md
