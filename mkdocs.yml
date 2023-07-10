@@ -1,7 +1,7 @@
 site_name: Patashale™
 site_url: https://www.patashale.in
 site_author: Pranam
-site_description: We are an open-source remote learning platform.
+site_description: Let's get educated for the present and the future.
 theme:
   name: material
   language: en
@@ -47,9 +47,6 @@ extra:
     - icon: fontawesome/brands/mastodon
       link: https://mastodon.social/@patashale
       name: Patashale™ on Mastodon Social
-    - icon: fontawesome/brands/mastodon
-      link: https://fosstodon.org/@patashale
-      name: Patashale™ on Fosstodon
     - icon: fontawesome/brands/youtube
       link: https://youtube.com/@patashale
       name: Patashale™ on YouTube
@@ -57,7 +54,6 @@ extra:
 markdown_extensions: 
   - attr_list
   - md_in_html
-
 
 nav:
   - Home: index.md
