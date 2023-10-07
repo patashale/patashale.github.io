@@ -41,12 +41,9 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/patashale
       name: Patashale™ on GitHub
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/patashale_in
-      name: Patashale™ on Twitter
     - icon: fontawesome/brands/mastodon
       link: https://mastodon.social/@patashale
-      name: Patashale™ on Mastodon Social
+      name: Patashale™ on Mastodon
     - icon: fontawesome/brands/youtube
       link: https://youtube.com/@patashale
       name: Patashale™ on YouTube
