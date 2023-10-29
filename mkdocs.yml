@@ -57,21 +57,25 @@ nav:
   - Learn: 
     - Home: en/learn.md
     - Software:
+      - Database:
         - Redis: learn-redis
+        - MongoDB: learn-mongodb
+      - DevOps:
         - OPA: learn-opa
-        - DSA: learn-dsa
-        - Ubuntu: learn-ubuntu
-        - Rust: learn-rust
         - Git: learn-git
         - Kubernetes: learn-kubernetes
         - OpenStack: learn-openstack
-        - Python: learn-python
         - Podman: learn-podman
-        - MongoDB: learn-mongodb
         - MAAS: learn-maas
         - Juju: learn-juju
-        - gRPC: learn-grpc
-        - GraphQL: learn-graphql
+      - Language:
+        - Rust: learn-rust
+      - Operating System:
+        - Ubuntu: learn-ubuntu
+        - Python: learn-python
+      - DSA: learn-dsa
+      - gRPC: learn-grpc
+      - GraphQL: learn-graphql
     - Hardware:
         - Arduino: learn-arduino
   - Products: en/products.md
