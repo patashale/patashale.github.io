@@ -1,3 +1,10 @@
+---
+
+hide:
+  - navigation
+
+---
+
 # Learn
 
 ## Programming Language
@@ -70,16 +77,6 @@
 
     [:octicons-arrow-right-24: Get Started](/learn-postgresql){:target="_blank"}
 
-<!-- - __NATS__
-
-    ---
-
-    __Website:__ [https://www.nats.io](https://www.nats.io)
-
-    __Initial Release:__	22 Nov 2010
-
-    [:octicons-arrow-right-24: Get Started](/learn-nats){:target="_blank"} -->
-
 </div>
 
 ## Cloud Native
@@ -95,6 +92,36 @@
     __Initial Release:__	09 September 2014
 
     [:octicons-arrow-right-24: Get Started](/learn-kubernetes){:target="_blank"}
+
+<!-- - __Cilium__
+
+    ---
+
+    __Website:__ [https://www.cilium.io](https://www.cilium.io)
+
+    __Initial Release:__	16 December 2015
+
+    [:octicons-arrow-right-24: Get Started](/learn-cilium){:target="_blank"}
+
+- __NATS__
+
+    ---
+
+    __Website:__ [https://www.nats.io](https://www.nats.io)
+
+    __Initial Release:__	22 Nov 2010
+
+    [:octicons-arrow-right-24: Get Started](/learn-nats){:target="_blank"}
+
+- __Crossplane__
+
+    ---
+
+    __Website:__ [https://www.crossplane.io](https://www.crossplane.io)
+
+    __Initial Release:__	04 December 2018
+
+    [:octicons-arrow-right-24: Get Started](/learn-crossplane){:target="_blank"} -->
 
 </div>
 
@@ -123,7 +150,6 @@
     [:octicons-arrow-right-24: Get Started](/learn-opentofu){:target="_blank"} -->
 
 </div>
-
 
 ## Generic
 
