@@ -7,3 +7,7 @@
     --md-primary-fg-color:        #FF671F;
     --md-typeset-a-color: #FFFFFF;
 }
+
+div.md-content {
+    text-align: justify;
+}
