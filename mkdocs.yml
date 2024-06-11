@@ -57,17 +57,13 @@ nav:
   - Learn: 
     - Home: en/learn.md
     - Software:
-      - Database:
-        - PostgreSQL: learn-postgresql
-      - DevOps:
-        - Git: learn-git
-        - Kubernetes: learn-kubernetes
-        - OpenStack: learn-openstack
-      - Language:
-        - Rust: learn-rust
-      - Operating System:
-        - Ubuntu: learn-ubuntu
       - DSA: learn-dsa
+      - Git: learn-git
+      - Kubernetes: learn-kubernetes
+      - OpenStack: learn-openstack
+      - PostgreSQL: learn-postgresql
+      - Rust: learn-rust
+      - Ubuntu: learn-ubuntu
   - Products: en/products.md
   - Licenses: en/licenses.md
   - Policies: en/policies.md
