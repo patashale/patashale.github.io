@@ -7,6 +7,18 @@ hide:
 
 # Learn
 
+## Generic
+
+<div class="grid cards" markdown>
+
+- __Data Structures and Algorithms (DSA)__
+
+    ---
+
+    [:octicons-arrow-right-24: Get Started](/learn-dsa){:target="_blank"}
+
+</div>
+
 ## Programming Language
 
 <div class="grid cards" markdown>
@@ -32,7 +44,7 @@ hide:
 
 </div>
 
-## DevOps
+<!-- ## DevOps
 
 <div class="grid cards" markdown>
 - __Git__
@@ -45,9 +57,9 @@ hide:
 
     [:octicons-arrow-right-24: Get Started](/learn-git){:target="_blank"}
 
-</div>
+</div> -->
 
-## Linux Distribution
+<!-- ## Linux Distribution
 
 <div class="grid cards" markdown>
 
@@ -61,9 +73,9 @@ hide:
 
     [:octicons-arrow-right-24: Get Started](/learn-ubuntu){:target="_blank"}
 
-</div>
+</div> -->
 
-## Data
+<!-- ## Data
 
 <div class="grid cards" markdown>
 
@@ -77,7 +89,7 @@ hide:
 
     [:octicons-arrow-right-24: Get Started](/learn-postgresql){:target="_blank"}
 
-</div>
+</div> -->
 
 ## Cloud Native
 
@@ -148,18 +160,6 @@ hide:
     __Initial Release:__	17 August 2023
 
     [:octicons-arrow-right-24: Get Started](/learn-opentofu){:target="_blank"} -->
-
-</div>
-
-## Generic
-
-<div class="grid cards" markdown>
-
-- __Data Structures and Algorithms (DSA)__
-
-    ---
-
-    [:octicons-arrow-right-24: Get Started](/learn-dsa){:target="_blank"}
 
 </div>
 
