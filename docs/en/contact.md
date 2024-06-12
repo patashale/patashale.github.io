@@ -20,7 +20,11 @@ Thank you for reaching out to us! We're here to help. Please find our contact de
 
 -   :simple-github: [GitHub](https://github.com/patashale)
 
+-   :simple-gitlab: [GitLab](https://gitlab.com/patashale)
+
 -   :simple-youtube: [YouTube](https://youtube.com/@patashale)
+
+-   :material-web: [Website](https://patashale.in)
 
 </div>
 
