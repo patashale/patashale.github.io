@@ -32,34 +32,34 @@ hide:
 
     [:octicons-arrow-right-24: Get Started](/learn-rust){:target="_blank"}
 
-<!-- - __Swift__
+- __Swift__
 
     ---
 
-    __Website:__ [https://www.swift.org](https://www.swift.org)
+    __Official Website:__ [https://www.swift.org](https://www.swift.org)
 
     __First appeared:__	02 June 2014
 
-    [:octicons-arrow-right-24: Get Started](/learn-swift){:target="_blank"} -->
+    [:octicons-arrow-right-24: Get Started](/learn-swift){:target="_blank"}
 
 </div>
 
-<!-- ## DevOps
+## DevOps
 
 <div class="grid cards" markdown>
 - __Git__
 
     ---
 
-    __Website:__ [https://www.git-scm.com](https://www.git-scm.com)
+    __Official Website:__ [https://www.git-scm.com](https://www.git-scm.com)
 
     __Initial Release:__	07 April 2005
 
     [:octicons-arrow-right-24: Get Started](/learn-git){:target="_blank"}
 
-</div> -->
+</div>
 
-<!-- ## Linux Distribution
+## Linux Distribution
 
 <div class="grid cards" markdown>
 
@@ -67,15 +67,15 @@ hide:
 
     ---
 
-    __Website:__ [https://www.ubuntu.com](https://ubuntu.com)
+    __Official Website:__ [https://www.ubuntu.com](https://ubuntu.com)
 
     __Initial Release:__	20 October 2004
 
     [:octicons-arrow-right-24: Get Started](/learn-ubuntu){:target="_blank"}
 
-</div> -->
+</div>
 
-<!-- ## Data
+## Data
 
 <div class="grid cards" markdown>
 
@@ -83,13 +83,13 @@ hide:
 
     ---
 
-    __Website:__ [https://www.postgresql.org](https://www.postgresql.org)
+    __Official Website:__ [https://www.postgresql.org](https://www.postgresql.org)
 
     __Initial Release:__	08 July 1996
 
     [:octicons-arrow-right-24: Get Started](/learn-postgresql){:target="_blank"}
 
-</div> -->
+</div>
 
 ## Cloud Native
 
@@ -105,11 +105,11 @@ hide:
 
     [:octicons-arrow-right-24: Get Started](/learn-kubernetes){:target="_blank"}
 
-<!-- - __Cilium__
+- __Cilium__
 
     ---
 
-    __Website:__ [https://www.cilium.io](https://www.cilium.io)
+    __Official Website:__ [https://www.cilium.io](https://www.cilium.io)
 
     __Initial Release:__	16 December 2015
 
@@ -119,7 +119,7 @@ hide:
 
     ---
 
-    __Website:__ [https://www.nats.io](https://www.nats.io)
+    __Official Website:__ [https://www.nats.io](https://www.nats.io)
 
     __Initial Release:__	22 Nov 2010
 
@@ -129,11 +129,11 @@ hide:
 
     ---
 
-    __Website:__ [https://www.crossplane.io](https://www.crossplane.io)
+    __Official Website:__ [https://www.crossplane.io](https://www.crossplane.io)
 
     __Initial Release:__	04 December 2018
 
-    [:octicons-arrow-right-24: Get Started](/learn-crossplane){:target="_blank"} -->
+    [:octicons-arrow-right-24: Get Started](/learn-crossplane){:target="_blank"}
 
 </div>
 
@@ -163,7 +163,7 @@ hide:
 
 </div>
 
-<!-- ## Security
+## Security
 
 <div class="grid cards" markdown>
 
@@ -171,7 +171,7 @@ hide:
 
     ---
 
-    __Website:__ [https://www.wireshark.org](https://www.wireshark.org)
+    __Official Website:__ [https://www.wireshark.org](https://www.wireshark.org)
 
     __Initial Release:__	16 September 1998
 
@@ -181,10 +181,10 @@ hide:
 
     ---
 
-    __Website:__ [https://www.zaproxy.org](https://www.zaproxy.org)
+    __Official Website:__ [https://www.zaproxy.org](https://www.zaproxy.org)
 
     __Initial Release:__	17 January 2002
 
     [:octicons-arrow-right-24: Get Started](/learn-zap){:target="_blank"}
 
-</div> -->
+</div>
