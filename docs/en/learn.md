@@ -26,7 +26,7 @@ hide:
 
     ---
 
-    __Website:__ [https://www.rust-lang.org](https://www.rust-lang.org)
+    __Official Website:__ [https://www.rust-lang.org](https://www.rust-lang.org)
 
     __First appeared:__	15 May 2015
 
@@ -99,7 +99,7 @@ hide:
 
     ---
 
-    __Website:__ [https://www.kubernetes.io](https://www.kubernetes.io)
+    __Official Website:__ [https://www.kubernetes.io](https://www.kubernetes.io)
 
     __Initial Release:__	09 September 2014
 
@@ -145,7 +145,7 @@ hide:
 
     ---
 
-    __Website:__ [https://www.openstack.org](https://www.openstack.org)
+    __Official Website:__ [https://www.openstack.org](https://www.openstack.org)
 
     __Initial Release:__	21 October 2010
 
@@ -155,7 +155,7 @@ hide:
 
     ---
 
-    __Website:__ [https://www.opentofu.org](https://www.opentofu.org)
+    __Official Website:__ [https://www.opentofu.org](https://www.opentofu.org)
 
     __Initial Release:__	17 August 2023
 
