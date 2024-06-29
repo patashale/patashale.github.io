@@ -17,6 +17,13 @@ hide:
 
     [:octicons-arrow-right-24: Get Started](/learn-dsa){:target="_blank"}
 
+
+- __System Design__
+
+    ---
+
+    [:octicons-arrow-right-24: Get Started](/learn-systemdesign){:target="_blank"}
+
 </div>
 
 ## Programming Language
