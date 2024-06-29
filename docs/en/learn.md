@@ -151,7 +151,7 @@ hide:
 
     [:octicons-arrow-right-24: Get Started](/learn-openstack){:target="_blank"}
 
-<!-- - __OpenTofu__
+- __OpenTofu__
 
     ---
 
@@ -159,7 +159,7 @@ hide:
 
     __Initial Release:__	17 August 2023
 
-    [:octicons-arrow-right-24: Get Started](/learn-opentofu){:target="_blank"} -->
+    [:octicons-arrow-right-24: Get Started](/learn-opentofu){:target="_blank"}
 
 </div>
 
