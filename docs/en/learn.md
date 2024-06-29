@@ -106,6 +106,16 @@ hide:
 
     [:octicons-arrow-right-24: Get Started](/learn-postgresql){:target="_blank"}
 
+- __Kafka__
+
+    ---
+
+    __Official Website:__ [https://kafka.apache.org](https://kafka.apache.org)
+
+    __Initial Release:__	04 January 2011
+
+    [:octicons-arrow-right-24: Get Started](/learn-kafka){:target="_blank"}
+
 </div>
 
 ## Cloud Native
